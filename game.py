@@ -1,3 +1,6 @@
+# Author: Karch Forward
+# Date 9/17/2023
+
 # Python class that defines the game mechanics and associated functions 
 # in order for a player to receieve a quote
 # Also will check if end game is ever met (And congragulate them on winning if True)

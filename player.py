@@ -1,3 +1,6 @@
+# Author: Karch Forward
+# Date 9/17/2023
+
 # Python class to define a player and their associated attribute
 # Contains various getters/setters to manipulate atrribute values
 

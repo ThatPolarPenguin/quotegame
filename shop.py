@@ -1,3 +1,6 @@
+# Author: Karch Forward
+# Date 9/17/2023
+
 # Python class which defines the shop UI and functions 
 # such as purchasing collectibles, purchasing ship parts
 # Other helper functions are contained within assist in making functions more readable (hopefully)

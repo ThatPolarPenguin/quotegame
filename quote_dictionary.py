@@ -1,3 +1,6 @@
+# Author: Karch Forward
+# Date 9/17/2023
+
 # Python quote dicitonary with associated functions which are used in the game.py file
 
 
