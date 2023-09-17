@@ -1,3 +1,5 @@
+# Temporary file to test functions before implementing into main game
+
 import random
 
 
