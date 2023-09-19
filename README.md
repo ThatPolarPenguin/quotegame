@@ -137,3 +137,5 @@ an ending screen congratulating them on winning the game. Within this end
 screen there will also be the following statistics displayed: *Amount of
 Remaining Credits, Total Questions asked, Amount of questions answered
 correctly and incorrectly.*
+
+# Naming Conventions
