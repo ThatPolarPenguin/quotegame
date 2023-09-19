@@ -71,8 +71,6 @@ def isEmpty(list):
 def purchase_collectible():
     while not isEmpty(collectibles_list):
 
-
-
         print("\nHere is a list of collectibles available for purchase: ")
         # Loop to list items in collectible 
         index = 0
@@ -87,8 +85,6 @@ def purchase_collectible():
 
         # Ask user if they would want to buy a ship part and check for valid input
         S = input("\nWould you like to purchase a collectible? (yes/no): ")
-
-        
         while True:
             if isYes_No(S) is True:
                 if S == 'yes':
@@ -115,6 +111,7 @@ def purchase_collectible():
                             else:
                                 Thrawn.sub_credits(price)
                                 Thrawn.add_item(string)
+                                Thrawn.add_multiplier()
                                 collectibles_list.remove(collectibles_list[S])
                                 print("\nThank you for your purchase!")
                                 time.sleep(1)
