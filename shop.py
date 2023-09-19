@@ -14,15 +14,15 @@ Thrawn = Player()
 
 collectibles_list = []
 
-collectibles_list_database = [['Holocron', 10], ['Lightsaber', 15], ['Comlink', 20], ['Astromech Droid', 20], 
-                     ['Phase I Clone Helmet', 10], ['DC-17 Pistol', 15], ['Beskar Ingot', 50], 
-                     ['Thermal Detonator', 25], ['Kalikori', 20], ['Rancor Tooth', 15], ['Holopad', 10],
-                     ['E-11 Blaster Rifile', 20], ['B1 Battle Droid Head', 20], ['Virosword', 10],
-                     ['Electrostaff', 15]]
+collectibles_list_database = [['Holocron', 15], ['Lightsaber', 15], ['Comlink', 15], ['Astromech Droid', 50], 
+                     ['Phase I Clone Helmet', 20], ['DC-17 Pistol', 30], ['Beskar Ingot', 50], 
+                     ['Thermal Detonator', 25], ['Kalikori', 15], ['Rancor Tooth', 20], ['Holopad', 30],
+                     ['E-11 Blaster Rifile', 20], ['B1 Battle Droid Head', 30], ['Virosword', 30],
+                     ['Electrostaff', 50]]
 
-ship_parts_list = [['Hyperdrive', 20], ['Engines', 10], ['Weapon Systems', 15], ['Hull', 20], 
-                   ['Deflector Shields', 15], ['Cockpit', 10], ['Coaxium', 20], ['Life Support Systems', 10],
-                   ['Cargo Hold', 25], ['Navicomputer', 20]]
+ship_parts_list = [['Hyperdrive', 100], ['Engines', 50], ['Weapon Systems', 40], ['Hull', 60], 
+                   ['Deflector Shields', 80], ['Cockpit', 80], ['Coaxium', 100], ['Life Support Systems', 90],
+                   ['Cargo Hold', 30], ['Navicomputer', 100]]
 
 
 def populate_collectibles():
