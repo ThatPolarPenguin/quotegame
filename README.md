@@ -15,14 +15,16 @@ you are probably not alone. Let's explain a few minor game details below.
 # Gameplay
 
 To start to build your ship, you as the player will need to
-acquire ten (10) designated ship parts found in the shop which can bought with credits.
+acquire ten designated ship parts found in the shop which can bought with credits.
 Credits will be awarded to the player upon successful answering of a quote. Per
-each correct answer, the player will receive one (1) credit added to their
+each correct answer, the player will receive one credit added to their
 inventory, the total amount of credits one has can be viewed from the shop
-menu. Now how can you increase the amount of credits from one for a correct
-answer?
+menu. 
 
-Enter collectibles! The shop will sell a limited supply of
+When answering a question, there must be a specific naming convention used when playing the quote game. Please refer to the section titled *Naming Conventions* below.
+
+Now how can you increase the amount of credits from one for a correct
+answer? Enter collectibles! The shop will sell a limited supply of
 collectibles for each game. These collectibles are randomized each time the
 game is loaded allowing for amazing combinations to be present offering a
 unique game experience each time the player launches the game. Each one of the
@@ -139,3 +141,9 @@ Remaining Credits, Total Questions asked, Amount of questions answered
 correctly and incorrectly.*
 
 # Naming Conventions
+
+To answer a quote question correctly a player must follow the naming convention of using proper names, first and last if appicable, with captialization. In addition ,if a name has a hyphen contained within it, it will most likely be used. A player may anwser with the first name of the character with whom said the quote, but this is not always guaranteed to be correct. Below is a list of several examples of character names that could be used to answer the questions correctly. When you get the gist, feel free to start a game!
+
+Character name format example:
+
+*Obi-Wan Kenobi, Anakin Skywalker, Han Solo, General Grievous, Darth Sidious, Palpatine, Ki-Adi-Mundi, Mace Windu, Padme Amidala, Luke Skywalker, Darth Vader, Count Dooku, Boba Fett, C3P0, Lando Calrissian, Yoda, Admiral Piett, Princess Leia, Tarkin, Watto*
