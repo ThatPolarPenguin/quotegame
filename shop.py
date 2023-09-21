@@ -157,7 +157,6 @@ def purchase_ship_part():
         print("\nHere is a list of ship parts available for purchase: ")
         # Loop to list items in collectible 
 
-
         index = 0
         i = 1
         for _ in range(len(ship_parts_list)):
