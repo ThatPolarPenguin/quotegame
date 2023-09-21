@@ -43,6 +43,8 @@ associated name and price, once again in credits, the player can select from.
 Once a part is purchased, it will go into the player's inventory and be removed
 from the shop.
 
+The player will continually be asked quotes, reshuffling if necessary, until they purchase the required amount of ship parts or end the game prematurely.
+
 # The Game Menu
 
 As a player launches the game, they will be greeted with a
@@ -142,8 +144,8 @@ correctly and incorrectly.*
 
 # Naming Conventions
 
-To answer a quote question correctly a player must follow the naming convention of using proper names, first and last if appicable, with captialization. In addition ,if a name has a hyphen contained within it, it will most likely be used. A player may anwser with the first name of the character with whom said the quote, but this is not always guaranteed to be correct. Below is a list of several examples of character names that could be used to answer the questions correctly. When you get the gist, feel free to start a game!
+To answer a quote question correctly, a player must follow the naming convention of using proper names, first and last when appicable, with captialization. In addition, if a name has a hyphen contained within it, it will most likely be used. A player may anwser with the first name of the character with whom said the quote, but this is not always guaranteed to be correct. Below is a list of several examples of character names that could be used to answer the questions correctly. Please note this is not a complete list of what is included in the game. When you get the gist, feel free to start a game!
 
 Character name format example:
 
-*Obi-Wan Kenobi, Anakin Skywalker, Han Solo, General Grievous, Darth Sidious, Palpatine, Ki-Adi-Mundi, Mace Windu, Padme Amidala, Luke Skywalker, Darth Vader, Count Dooku, Boba Fett, C3P0, Lando Calrissian, Yoda, Admiral Piett, Princess Leia, Tarkin, Watto*
+*Obi-Wan Kenobi, Anakin Skywalker, General Grievous, Darth Sidious, Palpatine, Ki-Adi-Mundi, Mace Windu, Padme Amidala, Darth Vader, Count Dooku, C3P0, Lando Calrissian, Yoda, Admiral Piett, Princess Leia, Tarkin, Watto*
