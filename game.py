@@ -18,8 +18,23 @@ def how_many_ship_parts():
 
 # Gets a random quote from the dictionary
 def get_random_quote():
-    random_quote = random.choice(list(quotes.list_dictionary()))
-    return random_quote
+    # Checks to ensure quote_ditionary is not 0, if so reshuffle
+    if quotes.get_length() > 0:
+        random_quote = random.choice(list(quotes.list_dictionary()))
+        return random_quote
+    else:
+        print("\nAll quotes used!")
+        quotes.quote_dictionary = quotes.used_dictionary.copy()
+        print("Reshuffling", end='')
+        i = 0
+        for _ in range(2):
+            print(".", end='')
+            time.sleep(.75)
+            i += 1
+        print('.')
+        random_quote = random.choice(list(quotes.list_dictionary()))
+        return random_quote
+    
 
 # Gets the answer(s) to the quote from the dictionary
 def get_corresponding_value(quote):

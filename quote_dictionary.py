@@ -323,7 +323,8 @@ def move_quote_to_used(key):
      # Remove it from main dictionary
      quote_dictionary.pop(key)
 
-
+def get_length():
+     return len(quote_dictionary)
 
 
 

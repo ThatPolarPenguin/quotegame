@@ -6,10 +6,11 @@
 
 import game
 from shop import Thrawn
+import quote_dictionary
 
 if __name__ == "__main__":
-    
-    game.start_game()
+    print(quote_dictionary.get_length())
+    # game.start_game()
     
 
   
